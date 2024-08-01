@@ -74,33 +74,33 @@ export const albumsData = [
         id:0,
         name: "Top 50 Global",
         image: img8,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Só modão de arrasar",
         bgColor:"#2a4365"
     },
     {   
         id:1,
         name: "Top 50 Sertanejos",
         image: img9,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Os 50 mais bombado em minas gerais",
         bgColor:"#22543d"
     },
     {   
         id:2,
         name: "Bombando no Interior",
         image: img10,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Interior de Goiás e Minas",
         bgColor:"#742a2a"
     },
     {   
         id:3,
-        name: "Trending Global",
+        name: "Sertanejo no Mundo",
         image: img16,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#44337a"
     },
     {   
         id:4,
-        name: "Mega Hits,",
+        name: "Mega Sertão",
         image: img11,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#234e52"
