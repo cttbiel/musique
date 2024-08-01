@@ -79,14 +79,14 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 Sertanejos",
         image: img9,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Bombando no Interior",
         image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
@@ -117,7 +117,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "A Vaca Já Foi P'ro Brejo",
         image: img1,
         file:song1,
         desc:"Tião Carreiro e Pardinho",
