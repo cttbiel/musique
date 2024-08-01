@@ -1,18 +1,18 @@
 import React, { useContext } from 'react'
-import { songsData, assets } from '../assets/assets'
+import { assets } from '../assets/assets'
 import { PlayerContext } from '../context/PlayerContext'
 
 const Player = () => {
 
-    const {seekBar,seekBg, playStatus, pause, play} = useContext(PlayerContext);
+    const {track,seekBar,seekBg,playStatus,pause,play,time} = useContext(PlayerContext);
 
   return (
       <div className='h-[10%] bg-black flex justify-between items-center text-white px-4'>
         <div className='hidden lg:flex items-center gap-4'>
-            <img className='w-12' src={songsData[0].image} alt="" />
+            <img className='w-12' src={track.image} alt="" />
             <div>
-                <p>{songsData[0].name}</p>
-                <p>{songsData[0].desc.slice(0,12)}</p>
+                <p>{track.name}</p>
+                <p>{track.desc.slice(0,12)}</p>
             </div>
         </div>
         <div className='flex flex-col items-center gap-1 m-auto'>
@@ -28,11 +28,11 @@ const Player = () => {
         </div>
 
         <div className='flex items-center gap-5'>
-          <p>1:06</p> {/*Tempo inicial*/}
+          <p>{time.currentTime.minute}:{time.currentTime.second}</p> {/*Tempo inicial*/}
           <div ref={seekBg} className='w-[60vw] max-w-[500px] bg-gray-300 rounded-full cursor-pointer'> 
             <hr ref={seekBar} className='h-1 border-none w-0 bg-green-800 rounded-full' /> {/*Barrinha de progressão do vídeo, dá pra mudar o quanto avança no "w-n"*/}
           </div>
-          <p>3:20</p>{/*Tempo final da música*/}
+          <p>{time.totalTime.minute}:{time.totalTime.second}</p>{/*Tempo final da música*/}
 
         </div>
 
