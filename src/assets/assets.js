@@ -72,44 +72,44 @@ export const assets = {
 export const albumsData = [
     {   
         id:0,
-        name: "Top 50 Global",
+        name: "Rádio 100% Sertanejo",
         image: img8,
         desc:"Só modão de arrasar",
-        bgColor:"#2a4365"
+        bgColor:"#641200"
     },
     {   
         id:1,
-        name: "Top 50 Sertanejos",
+        name: "80 anos de Vida & Viola",
         image: img9,
-        desc:"Os 50 mais bombado em minas gerais",
-        bgColor:"#22543d"
+        desc:"Tião Carreiro e Pardinho",
+        bgColor:"#8f79ff"
     },
     {   
         id:2,
-        name: "Bombando no Interior",
+        name: "Festa Sertaneja",
         image: img10,
         desc:"Interior de Goiás e Minas",
         bgColor:"#742a2a"
     },
     {   
         id:3,
-        name: "Sertanejo no Mundo",
+        name: "Rádio de Tião Carreiro & Pardinho",
         image: img16,
-        desc:"Your weekly update of the most played tracks",
-        bgColor:"#44337a"
+        desc:"Com Tião Carreiro & Paraíso, Tião Carreiro & Praiano, Liu & Léu e mais",
+        bgColor:"#9bff5f"
     },
     {   
         id:4,
-        name: "Mega Sertão",
+        name: "Rádio Jorge & Mateus",
         image: img11,
-        desc:"Your weekly update of the most played tracks",
-        bgColor:"#234e52"
+        desc:"Com Henrique & Juliano, Zé Neto & Cristiano, Cristiano Araújo e mais",
+        bgColor:"#ff5fb1"
     },
     {   
         id:5,
-        name: "Happy Favorites",
+        name: "This is Tião Carreiro & Pardinho",
         image: img15,
-        desc:"Your weekly update of the most played tracks",
+        desc:"This is Tião Carreiro & Pardinho. Todos os maiores hits em uma só playlist.",
         bgColor:"#744210"
     }
 ]
@@ -125,7 +125,7 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Pagode em Brasília",
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",

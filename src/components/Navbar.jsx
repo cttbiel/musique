@@ -15,9 +15,9 @@ const Navbar = () => {
 
         </div>
         <div className='flex items-center gap-4'>
-            <p className='bg-white text-black text-[15px] px-4 py-1 rounded-2xl hidden md:block cursor-pointer'>Explore o Premium</p> {/*é 2xL e não 2x1 kkkk*/}
-            <p className='bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer'>Instale o App</p>
-            <p className='bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center'>J</p>
+            <p className='bg-white text-black text-[15px] px-4 py-1 rounded-2xl hidden md:block cursor-pointer'>Ver planos Premium</p> {/*é 2xL e não 2x1 kkkk*/}
+            <p className='bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer'>Instalar aplicativo</p>
+            <p className='bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center cursor-pointer'>J</p>
 
         </div>
         
