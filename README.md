@@ -1,8 +1,47 @@
-# React + Vite
+# Musiqué 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+/*<img src="musique.png" alt="Musiqué Logo" width="200"/>*/
 
-Currently, two official plugins are available:
+Musiqué is a web-based music streaming app inspired by Spotify — offering a smooth audio playback experience and curated playlists, all wrapped in a sleek and modern interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🎧 Project Overview
+
+This project was built to simulate a real-world music streaming platform, using a clean design and an intuitive user experience. Although inspired by Spotify, **Musiqué** aims to evolve into an original and unique product with its own identity.
+
+---
+
+## 💻 Tech Stack
+
+- React  
+- Node.js  
+- Tailwind CSS  
+- JavaScript  
+- HTML5 & CSS3  
+
+---
+
+## ⚡ Features
+
+- Smooth audio playback.
+- Pre-set playlists.
+- Responsive and minimalistic design.
+
+---
+
+## 🚧 Future Improvements
+
+- Custom playlist creation.
+- User authentication and profiles.
+- Unique Musiqué-style design overhaul.
+
+---
+
+## 👨‍💻 Author
+
+**Gabriel Carvalho**  
+[GitHub](https://github.com/cttbiel) | [LinkedIn](https://www.linkedin.com/in/cttbiel)
+
+---
+
