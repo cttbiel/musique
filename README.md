@@ -2,13 +2,13 @@
 
 <img src="/src/assets/MusiqueLogo.png" alt="Musique Logo" width="200"/>
 
-Musiqué is a web-based music streaming app inspired by Spotify — offering a smooth audio playback experience and curated playlists, all wrapped in a sleek and modern interface.
+Musique is a web-based music streaming app inspired by Spotify — offering a smooth audio playback experience and curated playlists, all wrapped in a sleek and modern interface.
 
 ---
 
 ## 🎧 Project Overview
 
-This project was built to simulate a real-world music streaming platform, using a clean design and an intuitive user experience. Although inspired by Spotify, **Musiqué** aims to evolve into an original and unique product with its own identity.
+This project was built to simulate a real-world music streaming platform, using a clean design and an intuitive user experience. Although inspired by Spotify, **Musique** aims to evolve into an original and unique product with its own identity.
 
 ---
 
