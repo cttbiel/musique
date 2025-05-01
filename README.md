@@ -1,4 +1,4 @@
-<!--# Musiqué 🎵-->
+# Musiqué 🎵
 
 <img src="/src/assets/MusiqueLogo.png" alt="Musique Logo" width="200"/>
 
@@ -34,7 +34,7 @@ This project was built to simulate a real-world music streaming platform, using 
 
 - Custom playlist creation.
 - User authentication and profiles.
-- Unique Musiqué-style design overhaul.
+- Unique Musique-style design overhaul.
 
 ---
 
