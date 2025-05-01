@@ -1,4 +1,4 @@
-# Musiqué 🎵
+# Musique 🎵
 
 <img src="/src/assets/MusiqueLogo.png" alt="Musique Logo" width="200"/>
 
